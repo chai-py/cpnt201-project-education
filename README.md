@@ -33,7 +33,7 @@ Web Link : https://chai-py.github.io/cpnt201-project-education/index.html
 
 # TITLE:
 
-Education - 100% Fully Responsive Free HTML5 Bootstrap Template
+THINKHUB - 100% Fully Responsive Free HTML5 Bootstrap Template
 
 AUTHOR:
 DESIGNED & DEVELOPED by FreeHTML5.co
